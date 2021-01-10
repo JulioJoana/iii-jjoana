@@ -6,6 +6,8 @@ public class HolaMundo{
 		//Este es el final del merge manual
 
 	}
-
+	public static void printCourse(){
+		System.out.println("Introduccion a la ingenieria informatica");
+	}
 
 }
